@@ -1,4 +1,5 @@
 _repo: Mrs-Darrell_47378
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Potts, William Sherman
@@ -7,12 +8,17 @@ contributor:
     deathdate: 1930
     gutenberg_agent_id: '31113'
     url: http://www.gutenberg.org/2009/agents/31113
+covers:
+- cover_type: archival
+  image_path: 47378-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, Foxcroft
     gutenberg_agent_id: '43099'
     url: http://www.gutenberg.org/2009/agents/43099
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47378#Mrs-Darrell
 gutenberg_issued: '2014-11-17'
 gutenberg_type: Text
 identifiers:
